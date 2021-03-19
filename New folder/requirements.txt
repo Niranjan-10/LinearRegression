@@ -35,7 +35,7 @@ Django==2.2.6
 django-bootstrap4==1.1.1
 django-crispy-forms==1.9.0
 django-heroku==0.3.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 emoji==0.5.4
 Flask==1.1.1
 grapheme==0.6.0
